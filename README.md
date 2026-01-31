@@ -35,8 +35,9 @@ ColorDoc是一个划时代的富图像文档撰写智能体，它不仅是个全
 
 网页体验地址：<https://agiagentonline.com/colordoc>，进入网页后可**直接连接**进入预览账号查看已有案例。
 
-该项目隶属于AGIAgent（https://github.com/agi-hub/AGIAgent），代码共享，可按照该网站提示下载/安装，之后平台上选择‘专业图文写作’即可，或者输入 python GUI/app.py --app colordoc 启动
+该项目隶属于AGIAgent <https://github.com/agi-hub/AGIAgent>，代码共享，可按照该网站提示下载/安装，之后平台上选择‘专业图文写作’即可，或者输入 python GUI/app.py --app colordoc 启动
 
 更多介绍：
-1. 案例展示： <https://shorturl.at/B9Skw>
-2. 技术原理介绍：<https://shorturl.at/KxLWA>
+1. https://blog.csdn.net/wuzhenzhi/article/details/157586743?spm=1001.2014.3001.5502
+2. 案例展示： <https://shorturl.at/B9Skw>
+3. 技术原理介绍：<https://shorturl.at/KxLWA>
