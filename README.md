@@ -37,7 +37,44 @@ ColorDoc是一个划时代的富图像文档撰写智能体，它不仅是个全
 
 该项目隶属于AGIAgent <https://github.com/agi-hub/AGIAgent>，代码共享，可按照该网站提示下载/安装，之后平台上选择‘专业图文写作’即可，或者输入 python GUI/app.py --app colordoc 启动
 
-更多介绍：
+## 📚 作品展示
+
+以下是使用 AGI Agent 生成的部分作品示例，展示了平台在各类文档生成任务中的能力：
+
+### 🔬 技术研究报告（鼠标单击下载查看）
+- [大模型及智能体对国内外就业的影响及未来趋势综述](https://agiagentonline.com/colordocintro/assets/examples/大模型及智能体对国内外就业的影响及未来趋势综述.docx)
+- [2026年AI_Agent发展趋势报告](https://agiagentonline.com/colordocintro/assets/examples/2026年AI_Agent发展趋势报告.docx)
+- [大模型推理芯片发展趋势报告](https://agiagentonline.com/colordocintro/assets/examples/大模型推理芯片发展趋势报告.docx)
+- [06-大模型推理芯片未来展望与发展路径](https://agiagentonline.com/colordocintro/assets/examples/06-大模型推理芯片未来展望与发展路径.docx)
+- [手机大模型推理芯片未来趋势_完整报告](https://agiagentonline.com/colordocintro/assets/examples/手机大模型推理芯片未来趋势_完整报告.docx)
+- [大模型辅助金融投资的现状与未来_完整报告](https://agiagentonline.com/colordocintro/assets/examples/大模型辅助金融投资的现状与未来_完整报告.docx)
+- [类脑持续学习算法综述](https://agiagentonline.com/colordocintro/assets/examples/类脑持续学习算法综述.docx)
+- [浅析马斯克的脑机接口技术-完整报告](https://agiagentonline.com/colordocintro/assets/examples/浅析马斯克的脑机接口技术-完整报告.docx)
+- [01_国内外发展现状](https://agiagentonline.com/colordocintro/assets/examples/01_国内外发展现状.docx)
+- [色彩学完整介绍](https://agiagentonline.com/colordocintro/assets/examples/色彩学完整介绍.docx)
+
+### 📊 社会调研报告
+- [中国偏远山区儿童教育情况研究报告](https://agiagentonline.com/colordocintro/assets/examples/中国偏远山区儿童教育情况研究报告.docx)
+- [中国生育率调研报告-完整版](https://agiagentonline.com/colordocintro/assets/examples/中国生育率调研报告-完整版.docx)
+- [中国老龄化趋势下智能化养老研究报告](https://agiagentonline.com/colordocintro/assets/examples/中国老龄化趋势下智能化养老研究报告.docx)
+- [青少年游戏成瘾情况分析报告](https://agiagentonline.com/colordocintro/assets/examples/青少年游戏成瘾情况分析报告.docx)
+
+### 📝 项目申请书与专利
+- [量子中继与星地一体化通信技术攻关项目申请书](https://agiagentonline.com/colordocintro/assets/examples/量子中继与星地一体化通信技术攻关项目申请书.docx)
+- [量子通信数据稳定性增强技术专利交底书](https://agiagentonline.com/colordocintro/assets/examples/量子通信数据稳定性增强技术专利交底书.docx)
+
+### 🗺️ 旅游攻略与介绍
+- [三亚旅游攻略](https://agiagentonline.com/colordocintro/assets/examples/sanya_travel_guide.docx)
+- [汕头旅游攻略](https://agiagentonline.com/colordocintro/assets/examples/汕头旅游攻略.docx)
+- [乌镇历史介绍](https://agiagentonline.com/colordocintro/assets/examples/乌镇历史介绍.docx)
+- [北京市鼓楼到珠市口公交路线](https://agiagentonline.com/colordocintro/assets/examples/北京市鼓楼到珠市口公交路线.docx)
+
+### 🎬 其他作品
+- [疯狂动物城2_尼克的视角](https://agiagentonline.com/colordocintro/assets/examples/疯狂动物城2_尼克的视角.docx)
+- [疯狂动物城爆火的深层原因_完整报告](https://agiagentonline.com/colordocintro/assets/examples/疯狂动物城爆火的深层原因_完整报告.docx)
+- [皮卡丘图片搜索报告](https://agiagentonline.com/colordocintro/assets/examples/皮卡丘图片搜索报告.docx)
+- 
+## 更多介绍
 1. https://blog.csdn.net/wuzhenzhi/article/details/157586743?spm=1001.2014.3001.5502
 2. 案例展示： <https://shorturl.at/B9Skw>
 3. 技术原理介绍：<https://shorturl.at/KxLWA>
