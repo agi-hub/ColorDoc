@@ -2,6 +2,14 @@
 
 ![ColorDoc Logo](logo.png)
 
+## 介绍视频
+
+运行过程演示 <https://www.douyin.com/video/7598186693459496230>
+国家项目申请演示 <https://v.douyin.com/yLv8PTaq-Ec/>
+行业研究报告PK3大主流软件 <https://v.douyin.com/QFa6pAFFaLs/>
+专利写作 <https://v.douyin.com/_ZgIuMvhEaI/>
+
+
 你是否觉得普通大模型生成的文档只有文字，没有配图，枯燥无味？那就试试ColorDoc，一款全球唯一的支持5类图像格式自动插入到文档的全自主智能体，图文并茂，让文档告别枯燥无味。
 
 ColorDoc是一个划时代的富图像文档撰写智能体，它不仅是个全自主智能体，依靠内建工具即可完成复杂的文档撰写、数据分析、编程、网络检索等任务，同时在文档撰写上做了大量优化，也支持MCP进行工具扩展。
