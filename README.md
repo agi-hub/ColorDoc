@@ -12,7 +12,15 @@
 
 专利写作 <https://v.douyin.com/_ZgIuMvhEaI/>
 
+更多案例及演示视频请访问 <https://agiagentonline.com/colordocintro>
 
+## 体验地址
+网页体验地址：<https://agiagentonline.com/colordoc>，进入网页后可**直接连接**进入预览账号查看已有案例。
+
+## 代码安装
+该项目隶属于AGIAgent <https://github.com/agi-hub/AGIAgent>，代码共享，可按照该网站提示下载/安装，之后平台上选择‘专业图文写作’即可，或者输入 python GUI/app.py --app colordoc 启动
+
+## 介绍
 你是否觉得普通大模型生成的文档只有文字，没有配图，枯燥无味？那就试试ColorDoc，一款全球唯一的支持5类图像格式自动插入到文档的全自主智能体，图文并茂，让文档告别枯燥无味。
 
 ColorDoc是一个划时代的富图像文档撰写智能体，它不仅是个全自主智能体，依靠内建工具即可完成复杂的文档撰写、数据分析、编程、网络检索等任务，同时在文档撰写上做了大量优化，也支持MCP进行工具扩展。
@@ -44,9 +52,7 @@ ColorDoc是一个划时代的富图像文档撰写智能体，它不仅是个全
 12. 私有部署：软件无保留开源，完全免费，支持无互联网环境下的纯私有化部署，支持终端运行、个人网页端运行、小规模云端部署等多种模式，适配GLM-4.5等多种国产大模型及Claude Sonnet 4等国际先进大模型。国产模型成本可控（几十页、几万字文档开销小于1元人民币）。
 
 
-网页体验地址：<https://agiagentonline.com/colordoc>，进入网页后可**直接连接**进入预览账号查看已有案例。
 
-该项目隶属于AGIAgent <https://github.com/agi-hub/AGIAgent>，代码共享，可按照该网站提示下载/安装，之后平台上选择‘专业图文写作’即可，或者输入 python GUI/app.py --app colordoc 启动
 
 ## 📚 作品展示
 
